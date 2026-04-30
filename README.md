@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on as a Frontend Developer.<br>👯 I’m looking to collaborate on Open-source ReactJS projects.<br>🤝 I’m looking for help with state management with Redux.<br>🌱 I’m currently learning React Context API, Custom Hooks, and React Testing Library.<br>💬 Ask me about Front-end frameworks and libraries like ReactJS, Tailwind CSS.<br>⚡ Fun fact about me is that I love learning new tech, and my goal is to contribute to open-source projects that make a difference.
+🔭 I’m currently working on as a Frontend Developer.<br>👯 I’m looking to collaborate on Open-source ReactJS projects.<br>🤝 I’m looking for help with state management with Redux.<br>🌱 I’m currently learning React Context API, Custom Hooks, and React Testing Library.<br>💬 Ask me about Front-end frameworks and libraries like ReactJS, Tailwind CSS, GSAP.<br>⚡ Fun fact about me is that I love learning new tech, and my goal is to contribute to open-source projects that make a difference.
 
 
 ## 🌐 Socials:
